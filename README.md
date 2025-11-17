@@ -36,7 +36,7 @@ The project is designed to:
 5. **Visualization:**
    The evolving partitions are plotted with consistent node layouts, and metric trajectories are visualized for all nodes, with optional highlighting of influential individuals (e.g., nodes 0 and 33).
 
-## **Software Architecture**
+## **CODE BASE FLOW**
 
 The implementation is modular and organized across several components:
 
